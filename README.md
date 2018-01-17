@@ -2,6 +2,9 @@
 =================================== 
 ctpn+crnn Scene character recognition
 
+# Requirements:Software
+  python2.7, numpy, cython, caffe ,torch7, cuda8.0, cudnn6.0
+
 # ctpn:
 
    https://github.com/tianzhi0549/CTPN
